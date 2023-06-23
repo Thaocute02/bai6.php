@@ -494,6 +494,7 @@
 </div>
 </div>
 <!--People are Saying About DoWith-->
+<br>
 <div class="people">
 <h3>People are Saying </h3>
 <h3>About DoWith</h3>
@@ -515,16 +516,15 @@ helpful in my life, even I can pay a short time</p>
     <img src="person.png" alt="">
   </li>
   <li>
-    <img src="luffy.png" alt="">
+    <img src="choper.png" alt="">
   </li>
-<li><button></button></li>
 </ul>
 </div>
 </div>
 <!---->
 <div class="people">
   <form action="get-started" method="post">
-    <img src="mac.png" alt=""> <h3>Get-Started<br>  </h3>
+    <h3>Get-Started<br>  </h3>
     <label for="">Email</label><br>
     <input type="text" name="email" value="Enter your email"><br>
     <label for="">Message<br>
