@@ -447,7 +447,7 @@ html {
 }
 .main5-img{
     width: 80px;
-    height: 100px;
+    height: 80px;
 }
 .main5-text img{
     width: 20px;
@@ -521,7 +521,7 @@ html {
 .people{
     display: inline-block;
     margin-left: 15%;
-    width: 500px;
+    width: 500px;  
 }
 .people h3{
     font-size: 35px;
@@ -539,10 +539,6 @@ list-style: none;
     width: 30px;
     height: 30px;
     border-radius: 50%;
-}
-.people-img ul li img{
-   width: 30px;
-   height: 30px;
 }
 input[type=text] {
     padding: 12px 20px;
