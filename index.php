@@ -219,7 +219,7 @@
 <div class="main4-img">
   <ul>
     <li> 
-      <img src="nami.png" alt="">
+      <img src="choper.png" alt="">
     </li>
     <li> 
       <h3>Collboration Teams</h3>
@@ -235,7 +235,7 @@
 <div class="main4-img">
   <ul>
     <li>
-      <img src="luffy.png" alt="">
+      <img src="choper.png" alt="">
     </li>
     <li>
       <h3>Clould Storage</h3>
