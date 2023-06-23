@@ -327,6 +327,10 @@ html {
     margin-left: 20%;
     font-size: 15px;  
 }
+.footer0 .logo{
+    font-size: 4rem !important;
+    color:rgb(18, 156, 110)! important;
+}
 .footer1{
 display: inline-block;
 }
