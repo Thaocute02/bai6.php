@@ -111,19 +111,442 @@
     <!-- main -->
     <main>
     </main>
+    <!-- ảnh 4-->
+<div class="main2">
+  <div class="how">
+    <h3>How we support our pratner all over the world</h3>
+    <p id="how-text2">SaaS become a commom delivery model for many business application, including ofice software, mesaging software, payroll processing software, DBMS software mangament software</p>
+    <div class="rating">
+      <ul>
+        <li> 
+          <img src="star.png" alt="">
+        </li>
+        <li>
+          <img src="star.png" alt="">
+        </li>
+        <li>
+          <img src="star.png" alt="">
+        </li>
+        <li>
+          <img src="star.png" alt="">
+        </li>
+        <li>
+          <img src="star.png" alt="">
+        </li>
+      </ul>
+      <p>4.9/5 rating</p>
+      <p> databricks</p>
+    </div>
+
+    <div class="rating">
+      <ul>
+        <li> 
+          <img src="star.png" alt="">
+        </li>
+        <li>
+          <img src="star.png" alt="">
+        </li>
+        <li> 
+          <img src="star.png" alt="">
+        </li>
+        <li>
+          <img src="star.png" alt="">
+        </li>
+      </ul>
+      <p>4.8/5 rating</p>
+      <p> databricks</p>
+    </div>
+  </div>
+
+  <div class="how" >
+      <div class="pub">
+        <ul>
+          <li>
+            <img src="analyst.png" alt="">
+          </li>
+          <li>
+            <p>Publishing</p>
+          </li>
+        </ul>
+        <p id="pub-text">Plan, collaborate, and, publishing your 
+          content that drivees meaning engagement and growth for your banrd</p>
+      </div>
+
+  <!---->
+  <div class="ana">
+    <ul>
+      <li>
+        <img src="analyst.png" alt="">
+      </li>
+      <li>
+        <p>Analytics</p>
+      </li>
+    </ul>
+    <p id="ana-text">Analyze your performance and create goegeous report</p>
+  </div>
+<!---->
+<div class="eng">
+  <ul>
+    <li>
+      <img src="analyst.png" alt="">
+    </li>
+    <li>
+      <p>Engagement</p>
+    </li>
+  </ul>
+  <p id="eng-text">Quiuckly navigate you anda engage with your adience</p>
+</div>
+<!---->
+</div>
+</div>
+
+<!-- Our Features you cab get-->
+<div class="main3">
+  <ul>
+    <li><h3> Our Features you cab get</h3>  
+    </li>
+    <li>
+      <p id="main3-text2">We offer a variety of interesting features that you can help increase your 
+        productivity at work and manage your projiect easaly</p>
+    </li>
+    <li>
+      <button>Get Started</button>
+    </li>
+  </ul>
+</div>
+<!-- ảnh sau Our Features-->
+<div class="main4">
+<div class="main4-img">
+  <ul>
+    <li> 
+      <img src="nami.png" alt="">
+    </li>
+    <li> 
+      <h3>Collboration Teams</h3>
+    </li>
+    <li>
+      <p>Here you can handle projects together with team virtually</p>
+    </li>
+   
+    
+  </ul>
+</div>
+
+<div class="main4-img">
+  <ul>
+    <li>
+      <img src="luffy.png" alt="">
+    </li>
+    <li>
+      <h3>Clould Storage</h3>
+    </li>
+    <li>
+      <p>No need to worry about storage because we provide storage up to 2TB</p>
+    </li>
+   
+  </ul>
+</div>
+<div class="main4-img">
+  <ul>
+    <li>
+      <img src="choper.png" alt="">
+    </li>
+    <li>
+      <h3> Daily Analytics</h3>
+    </li>
+    <li>
+      <p>We always provide useful information to make it easier for you every day</p>
+    </li>
+  </ul>
+</div>
+
+</div>
+<!-- main5: ảnh 5-->
+<div>
+  <div class="main5">
+    <div><h3>What Benifit Will You Get</h3></div>
+<!--1-->
+    <div class="main5-text">
+      <ul>
+        <li>
+          <img src="analyst.png" alt="">
+        </li>
+        <li><p>Free Consulting With Exporot Saving Money</p></li>
+      </ul>
+    </div>
+<!--2-->
+    <div class="main5-text">
+      <ul>
+        <li>
+          <img src="analyst.png" alt="">
+        </li>
+        <li><p>Online Banking</p></li>
+      </ul>
+    </div>
+<!--3-->
+    <div class="main5-text">
+      <ul>
+        <li>
+          <img src="analyst.png" alt="">
+        </li>
+        <li><p>Invesment Report Every Month</p></li>
+      </ul>
+    </div>
+<!--4-->
+<div class="main5-text">
+  <ul>
+    <li>
+      <img src="analyst.png" alt="">
+    </li>
+    <li><p>Saving Money For The Future</p></li>
+  </ul>
+</div>
+<!--5-->
+<div class="main5-text">
+  <ul>
+    <li>
+      <img src="analyst.png" alt="">
+    </li>
+    <li><p>Online Transection</p></li>
+  </ul>
+</div>
+<!--hết-->
+  </div>
+
+  <div class="main5">
+    <div class="main5-img">
+      <img src="mac.png" alt=""></div>
+  </div>
+</div>
+<!---->
+<div class="choose"> <h3 id="h31">Choose Plan </h3>
+  <h3 id="h32">That's Right For You</h3>
+<p>Choose plan that works best for you, feel free to contact us</p></div>
+<div class="choose-btn">
+  <ul><li><button>Bil Monthly</button></li>
+  <li><button id="bil-yearly">Bil Yearly</button></li></ul>
+</div>
+<!--Form-->
+<div class="form">
+<div> <h4>Free</h4>
+      <p>Have a go and tesst your superpowers</p>
+      <h4>$0</h4>
+</div>
+<div class="form1">
+  <ul>
+    <li>
+      <img src="star.png" alt="">
+    </li>
+    <li><p>2 User</p></li>
+  </ul>
+</div>
+
+<div class="form1">
+  <ul>
+    <li>
+      <img src="star.png" alt="">
+    </li>
+    <li><p>2 Files</p></li>
+  </ul>
+</div>
+
+<div class="form1">
+  <ul>
+    <li>
+      <img src="star.png" alt="">
+    </li>
+    <li><p>Public Share & Comment</p></li>
+  </ul>
+</div>
+<div class="form1">
+  <ul>
+    <li>
+      <img src="star.png" alt="">
+    </li>
+    <li><p>Chat Support</p></li>
+  </ul>
+</div>
+
+<div class="form1">
+  <ul>
+    <li>
+      <img src="star.png" alt="">
+    </li>
+    <li><p>New income apps</p></li>
+  </ul>
+</div>
+<div>
+  <button>Signup for free</button>
+</div>
+</div>
+<!--form 2-->
+<div class="form">
+
+  <div class="form2">
+
+  
+  <div> <h4>Pro</h4>
+    <p>Experiment the power of infinite possibition</p>
+    <h4>$8</h4>
+    <button id="btn8">Save $50 a year</button>
+</div>
+<div class="form1">
+<ul>
+  <li>
+    <img src="star.png" alt="">
+  </li>
+  <li><p>4 User</p></li>
+</ul>
+</div>
+
+<div class="form1">
+<ul>
+  <li>
+    <img src="star.png" alt="">
+  </li>
+  <li><p>All apps</p></li>
+</ul>
+</div>
+
+<div class="form1">
+<ul>
+  <li>
+    <img src="star.png" alt="">
+  </li>
+  <li><p>Inlimited editable exports</p></li>
+</ul>
+</div>
+<div class="form1">
+<ul>
+  <li>
+    <img src="star.png" alt="">
+  </li>
+  <li><p>Folders and collaboration</p></li>
+</ul>
+</div>
+
+<div class="form1">
+<ul>
+  <li>
+    <img src="star.png" alt="">
+  </li>
+  <li><p>All incoming apps</p></li>
+</ul>
+</div>
+<div>
+<button id="go-to-pro">Go to pro</button>
+</div>
+
+</div>
+
+</div>
+<!--form 3-->
+<div class="form">
+  <div> <h4>Business</h4>
+    <p>Unveil new superpowers and join the Design Leaque</p>
+    <h4>$16</h4>
+</div>
+<div class="form1">
+<ul>
+  <li>
+    <img src="star.png" alt="">
+  </li>
+  <li><p>All the future of pro plan</p></li>
+</ul>
+</div>
+
+<div class="form1">
+<ul>
+  <li>
+    <img src="star.png" alt="">
+  </li>
+  <li><p>Account success Manager</p></li>
+</ul>
+</div>
+
+<div class="form1">
+<ul>
+  <li>
+    <img src="star.png" alt="">
+  </li>
+  <li><p>Single Sign-On (SSO)</p></li>
+</ul>
+</div>
+<div class="form1">
+<ul>
+  <li>
+    <img src="star.png" alt="">
+  </li>
+  <li><p>Co-conception program</p></li>
+</ul>
+</div>
+
+<div class="form1">
+<ul>
+  <li>
+    <img src="star.png" alt="">
+  </li>
+  <li><p>Collaboration-Soon</p></li>
+</ul>
+</div>
+<div>
+<button>Go to Business</button>
+</div>
+</div>
+<!--People are Saying About DoWith-->
+<div class="people">
+<h3>People are Saying </h3>
+<h3>About DoWith</h3>
+<p>Everthing you need to accept to payent and grow <br>
+your money of manage anywhere on planet</p>
+<h1>//</h1>
+<p>I am very helped bu this E-wallet application, my<br>
+days are vary easy to use this application and its very<br>
+helpful in my life, even I can pay a short time</p>
+<p>_ Aria Zinnanrio</p>
+<div class="people-img">
+  <ul><li>
+    <img src="person.png" alt="">
+  </li>
+  <li>
+    <img src="person.png" alt="">
+  </li>
+  <li>
+    <img src="person.png" alt="">
+  </li>
+  <li>
+    <img src="luffy.png" alt="">
+  </li>
+<li><button></button></li>
+</ul>
+</div>
+</div>
+<!---->
+<div class="people">
+  <form action="get-started" method="post">
+    <img src="mac.png" alt=""> <h3>Get-Started<br>  </h3>
+    <label for="">Email</label><br>
+    <input type="text" name="email" value="Enter your email"><br>
+    <label for="">Message<br>
+ <input type="text" name="message" id="" value="What are you say?">
+    </label><br>
+   <button id="people-btn">Request Demo</button>
+    <label for=""></label>
+    <p id="or"> <a href="">or Start Free Trial</a></p>
+  </form>
+</div>
     <!-- footer -->
     <footer id="footer">
-      <div>
-        <div>
+      <div class="footer0">
           <div class="logo">
             <p>Biccas</p>
           </div>
-          <p>Get started noew try our product</p>
+          <p style="font-size: 15px;">Get started noew try our product</p>
           <div>
             <input type="text" placeholder="Enter your email here" />
             <img src="" alt="" />
           </div>
-        </div>
+      </div>
         <div class="footer">
           <div class="footer1">
           <ul>
